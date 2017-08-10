@@ -1,1 +1,2 @@
 # getip
+getip from windows
